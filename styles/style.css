@@ -357,6 +357,7 @@ input::placeholder{
     justify-content: center;
     align-items: center;
     padding:100px 80px;
+    margin-bottom: 80px;
 } 
 
 .sub-m{
